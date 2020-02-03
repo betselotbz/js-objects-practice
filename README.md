@@ -6,11 +6,7 @@ Get some practice in working with objects!
 
 ## Instructions
 
-1. Fork and clone this repository.
-1. Change into the new directory.
-1. Fulfill the listed requirements.
-
-Starter code is available in [`lib/challenge.js`](lib/challenge.js).
+Please fork the starter code in [this replit](https://repl.it/@marcwright/JS-Objects-Practice).
 
 ## Requirements
 
